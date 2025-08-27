@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there, I'm CyberLivinu  
 
-<!--
-**CyberLivinu/CyberLivinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! 🚀  
+I’m passionate about **technology, coding, and building cool projects** that make life easier and more fun.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🌱 Currently exploring **AI, Web Development, and Game Modding**  
+- 💻 Love working with **Python, JavaScript, and Minecraft Modding**  
+- 🎮 Creator of fun projects like **Free Mini Games** and Minecraft-related tools  
+- 📖 Always learning, always experimenting!  
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python, JavaScript, Java, HTML, CSS  
+- **Frameworks & Tools:** Node.js, React, TailwindCSS, Flask  
+- **Other Interests:** Minecraft Mods, Automation Scripts, Bots  
+
+---
+
+## 🌍 Connect with Me
+- 💼 GitHub: [CyberLivinu](https://github.com/CyberLivinu)  
+- 📺 YouTube: *[Add your channel if you want]*  
+- 🎓 Patreon: [Liv Tech School](https://www.patreon.com/LivTechSchool)  
+
+---
+
+## 📊 GitHub Stats
+![CyberLivinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberLivinu&show_icons=true&theme=tokyonight)
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and drop a star if you like my work.* ⭐️
